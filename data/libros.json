@@ -1,0 +1,751 @@
+{
+  "comics": [
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "It",
+      "caratula": "https://dynamic.indigoimages.ca/books/1501175467.jpg?altimages=false&scaleup=true&maxheight=515&width=380&quality=85&sale=6&lang=en",
+      "sinopsis": "¿Quién o qué mutila y mata a los niños de un pequeño pueblo norteamericano? ¿Por qué llega cíclicamente el horror a Derry en forma de un payaso siniestro que va sembrando la destrucción a su paso? ",
+      "precio": "65,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Deseperacion",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/307974-650-650/desesperacion-9789589016633.jpg?v=636800480850030000",
+      "sinopsis": "Es la interestatal 50, en el desértico y solitario tramo que atraviesa Nevada, un gato muerto ensartado en un cartel da la bienvenida al pequeño pueblo minero de Desesperación. Allí un policía local poseído por un perverso ser se ha erigido en autoridad suprema y sanguinaria, y elige sus víctimas entre los escasos vehículos que circulan por la carretera.",
+      "precio": "44,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Sicopata Americano",
+      "caratula": "http://eslamoda.com/wp-content/uploads/sites/2/2015/08/Psic%C3%B3pata-americano-de-Easton-Ellis-600x914.jpg",
+      "sinopsis": "Este aterrador libro narra con todo tipo de detalles (incluidos los más violentos y escabrosos) la doble vida de Patrick Bateman, ejecutivo impecable y a la vez asesino en serie por capricho e incluso aburrimiento.",
+      "precio": "45,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "La chica del al lado",
+      "caratula": "http://eslamoda.com/wp-content/uploads/sites/2/2015/08/La-chica-de-al-lado-de-Jack-Ketchum.jpg",
+      "sinopsis": "En una calle sin salida, en un oscuro y húmedo sótano de la casa Chandler, Meg y Susan, cuyos padres han muerto, están cautivas a manos de una tía lejana que está cayendo progresivamente en la locura. Una locura que está trasmitiendo a su familia, y finalmente al barrio entero.",
+      "precio": "38,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Fantasmas",
+      "caratula": "http://eslamoda.com/wp-content/uploads/sites/2/2015/08/Fantasmas-de-Joe-Hill-600x975.jpg",
+      "sinopsis": "Imogene es joven y guapa. Besa como una actriz y conoce absolutamente todas y cada una de las películas que se han filmado. El caso es que también está muerta y a la espera de Alec Sheldon en el teatro Rosebud una tarde de 1945… Arthur Roth es un niño solitario con unas ideas brillantes y un don para atraer los malos tratos. No es fácil hacer amigos cuando eres el único chico hinchable de tu ciudad… ",
+      "precio": "53,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "La carretera",
+      "caratula": "http://eslamoda.com/wp-content/uploads/sites/2/2015/08/La-carretera-de-Cormac-McCarthy.jpg",
+      "sinopsis": "Ya no existe más vida sobre la tierra que la humana y los hombres se comen los unos a los otros. Un padre y su hijo recorren este mundo apocalíptico sin saber cuál es su destino",
+      "precio": "25,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Los sin nombre",
+      "caratula": "http://eslamoda.com/wp-content/uploads/sites/2/2015/08/Los-sin-nombre-de-Ramsey-Campbell-600x800.jpg",
+      "sinopsis": "Habían conducido a su hija a una pesadilla de sangre y horror… Una llamada telefónica de su hija despierta todos los terrores del pasado de Barbara Waugh. Porque Angela había sido asesinada de forma brutal hacía años, disparada a quemarropa en la cabeza. Y si después de todo está viva, ¿dónde se encuentra? ¿Quién la ha mantenido en su poder? ",
+      "precio": "38,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Cenizas",
+      "caratula": "https://m.media-amazon.com/images/I/81yyzRFILeL._AC_UL436_.jpg",
+      "sinopsis": "Cuando Alex se adentra en el bosque tiene diecisiete años, un tumor cerebral, una pistola... y una única idea en mente. Entonces se topa con un anciano y su nieta Ellie, una niña que acaba de perder a su padre en la guerra de Iraq",
+      "precio": "51,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Terror",
+      "Titulo": "Sombras",
+      "caratula": "https://pictures.abebooks.com/SERLOGAL2012/md/md17130203672.jpg",
+      "sinopsis": "Cuando Alex entró en el bosque, jamás pensó que necesitaría usar su pistola. Ahora ya no la lleva, y ojalá lo hiciera.Primero fue el zumbido. Después, los dispositivos electrónicos dejaron de funcionar. Y entonces los hombres se convirtieron en monstruos...",
+      "precio": "51,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "La esfera luminosa",
+      "caratula": "https://images.cdn1.buscalibre.com/5c9bbc4b6df0b5cb528b4567.__RS360x360__.jpg",
+      "sinopsis": "El día en que cumple catorce años, Chen presencia como una esfera luminosa entra en su casa y calcina a sus padres. Con el propósito de encontrar algún sentido a esta extraña desgracia, decide dedicarse a descifrar el secreto del misterioso fenómeno a causa del cual quedó huérfano. precio",
+      "precio": "49,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Sueñan los androides con ovejas electricas?",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/275862-650-650/blade-runner-suenan-los-androides-con-ovejas-electricas--9788435021296.jpg?v=636432563276070000",
+      "sinopsis": "¿Sueñan los androides con ovejas eléctricas?, una de las mejores novelas de Philip K. Dick y, sin duda, la más leída, es una alucinante pesadilla tecnológica, cuyo tema principal es el impreciso límite entre lo natural y lo artificial.",
+      "precio": "60,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Planetas invisibles",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/285354-650-650/planetas-invisibles-9788491048336.jpg?v=636536323749570000",
+      "sinopsis": "Trece visiones del futuro. Trece historias poderosas que dan una idea de la variedad de voces, temas y técnicas de los autores chinos de ciencia-ficción: las hay inquietantes, irónicas, distópicas, emotivas... ",
+      "precio": "60,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "La caida de Hyperion",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/292533-650-650/la-caida-de-hyperion-9788466658041.jpg?v=636616385476270000",
+      "sinopsis": "La caída de Hyperion es la segunda novela de la tetralogía «Los cantos de Hyperion», una saga fundamental de la ciencia ficción moderna que fue galardonada con tres premios Locus y el Hugo de 1990. ",
+      "precio": "55,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "El ascenso de Endymion",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/292535-650-650/el-ascenso-de-endymion-9788466658065.jpg?v=636616385564670000",
+      "sinopsis": "El ascenso de Endymion es la cuarta y última novela de la tetralogía Los Cantos de Hyperion, una saga fundamental de la ciencia ficción moderna que fue galardonada con tres premios Locus y el Hugo de 1990. ",
+      "precio": "55,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Endymion",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/292534-650-650/endymion-9788466658058.jpg?v=636616385522100000",
+      "sinopsis": "Han pasado 274 años desde la caída de Hyperion, y la Hegemonía se ha transformado en una teocracia regida por Pax, la organización cívico-militar de la Iglesia católica. Gracias al cruciforme, la inmortalidad es efectiva y la nueva fe, universal. Pax solo teme la llegada de un nuevo mesías",
+      "precio": "550,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "La maquina del tiempo",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/311000-650-650/la-maquina-del-tiempo-9788491811442.jpg?v=636827572804230000",
+      "sinopsis": "Obra que se halla en los inicios de la novela de ciencia-ficción, \"La máquina del tiempo\" (1895) sigue conservando el mismo poder de fascinación y vigor narrativo que le valieron el éxito inmediato en el momento de su publicación",
+      "precio": "43,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Artemisa",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/286421-650-650/artemisa-9789585986800.jpg?v=636554079716800000",
+      "sinopsis": "Artemisa es la esperada nueva novela del autor de El marciano, el libro que ha abierto la ciencia ficción al gran público, convirtiéndose en un fenómeno editorial en 40 países con más de 3.000.000 de ejemplares vendidos, y una película de gran presupuesto: Marte de Ridley Scott, con Matt Damon como protagonista.",
+      "precio": "44,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Los auto-estopistas galacticos",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/275866-650-650/los-autoestopistas-galacticas-9788433959560.jpg?v=636432563464770000",
+      "sinopsis": "La ciencia ficción da para la distopía, la paranoia tecnológica, la metafísica, la épica, el terror… y, sí, también para las carcajadas cósmicas. Qué es lo que provoca la descacharrante y estrafalaria aproximación al género de ese profesor chiflado llamado Douglas Adams.",
+      "precio": "90,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Ciencia Ficcion",
+      "Titulo": "Materia oscura",
+      "caratula": "https://panamericana.vteximg.com.br/arquivos/ids/280255-650-650/materia-oscura-9786075270470.jpg?v=636480119380430000",
+      "sinopsis": "“¿Eres feliz con tu vida?” Eso es lo último que Jason Dessen alcanza a escuchar antes de que el hombre enmascarado lo deje inconsciente.",
+      "precio": "75,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Apocalipsis",
+      "caratula": "https://http2.mlstatic.com/D_NP_992512-MCO26099437004_092017-Q.jpg",
+      "sinopsis": "A partir del momento en que su padre decide suicidarse, Marcos debe convertirse en hombre y valerse por sí mismo. Una apasionante historia se desata cuando descubre que, en un oscuro y alejado centro para enfermos mentales, vive un hermano suyo del que no tenía noticia, un personaje luminoso que le cambiará la vida para siempre.",
+      "precio": "35,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Diario del fin del mundo",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/291492-1000-1000/Diario-del-fin-del-mundo.jpg?v=636888637730130000",
+      "sinopsis": "El escritor Mario Mendoza recibe un mensaje de un viejo amigo de universidad: Daniel Klein. Entre ambos evocarán una juventud impetuosa en la cual compartieron el amor de una misma mujer:",
+      "precio": "35,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Cien años de soledad",
+      "caratula": "https://http2.mlstatic.com/S_852296-MCO29152080786_012019-O.jpg",
+      "sinopsis": "Señalada como \"catedral gótica del lenguaje\", este clásico del siglo XXes el enorme y espléndido tapiz de la saga de la familia Buendía, en lamítica aldea de Macondo.Un referente imprescindible de la vida y la narrativa latinoamericana",
+      "precio": "34,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Historia de los viajes y la abuela",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/285076-292-292/la-historia-los-viajes-y-la-abuela-9789585496361.jpg?v=636875948017300000",
+      "sinopsis": "Un apasionante viaje por la historia de Colombia de la mano de una abuela y sus dos nietos.",
+      "precio": "42,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Para matar un amigo",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/251077-1000-1000/PARA-MATAR-A-UN-AMIGO.jpg?v=636463677739030000",
+      "sinopsis": "Dos cuerpos sin vida, un hombre y una mujer, son hallados en un apartamento de El Poblado, en Medellín. Lo que en un inicio parece ser un asesinato común, esconde una intriga siniestra. El detective Ricardo Saba se hace cargo del caso y pronto descubre que los familiares tienen un sospechoso: Juan Camilo Mejía.",
+      "precio": "55,000",
+      "recomendado": "TRUE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Sin remedio",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/291670-1000-1000/Sin-remedio.jpg?v=636888640360230000",
+      "sinopsis": "El poeta Ignacio Escobar sale a recorrer la Bogotá de los años setenta después de que su novia lo abandona por no querer tener hijos con ella. De ahí en adelante soportará diversos encuentros con jovencísimas prostitutas, poetas pusilánimes, socialistas recalcitrantes, burgueses insufribles, mujeres insaciables, mujeres inalcanzables, militares corruptos, en una cadena de eventos desafortunados que lo dejará con el cuerpo exhausto.",
+      "precio": "75,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Los divinos",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/264083-1000-1000/LOS-DIVINOS.jpg?v=636594766516100000",
+      "sinopsis": "Un crimen real que conmovió a una sociedad entera. Un alegato contra el feminicidio, por una de las autoras másimportantes en español. El cuerpo de una niña es encontrado flotando en el agua en lo que parece haber sido un ritual. Quien lo preparó tal vez intentó compensar a la víctima haciendo desaparecer las evidencias de su muerte",
+      "precio": "53,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Primero estaba el mar",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/288430-1000-1000/Primero-estaba-el-mar.jpg?v=636886057330830000",
+      "sinopsis": "J. y su novia Elena están cansados de la vida superficial en la ciudad y deciden empezar de nuevo en la costa caribe colombiana.Al poco tiempo, esa promesa de límpidos amaneceres y arena entre los dedos se revela despiadada y la naturaleza deja de ser anhelo para convertirse en el recuerdo de cuán frágil es todo intento humano de perdurar.",
+      "precio": "36,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "Estuche de lujo Premio Nobel",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/282498-1000-1000/7709593648189-1585.png?v=636836949218270000",
+      "sinopsis": "Estuche de lujo con 6 libros del ganador del premio noble Gabriel Garcia Marquez.",
+      "precio": "2,800,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Literatura colombiana",
+      "Titulo": "MI alma se la dejo al diablo",
+      "caratula": "https://librerialerner.vteximg.com.br/arquivos/ids/291714-1000-1000/Mi-alma-se-la-dejo-al-diablo.jpg?v=636888640689630000",
+      "sinopsis": "El título de la historia es la frase con que el campesino Benjamín Cubillos remata un breve testamento, antes de morir abandonado en la selva amazónica colombiana",
+      "precio": "34,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El imperio final",
+      "caratula": "https://http2.mlstatic.com/S_818334-MLA29783161210_032019-O.jpg",
+      "sinopsis": "El imperio final inicia la saga «Nacidos de la Bruma [Mistborn]», obra imprescindible del Cosmere, el universo destinado a dar forma a la serie más extensa y fascinante jamás escrita en el ámbito de la fantasía épica.Durante mil años han caído las cenizas y nada florece. Durante mil años los skaa han sido esclavizados y viven sumidos en un miedo inevitable.",
+      "precio": "60,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El pozo de la ascension",
+      "caratula": "https://www.libreriaserendipia.com/imagenes/9788466/978846665890.GIF",
+      "sinopsis": "Durante mil años han caído las cenizas y nada florece. Durante mil años los skaa han sido esclavizados y viven sumidos en un miedo inevitable. Durante mil años el Lord Legislador reina con un poder absoluto gracias al terror, a sus poderes e inmortalidad. Le ayudan «obligadores» e «inquisidores», junto a la poderosa magia de la «alomancia».",
+      "precio": "60,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El heroe de las eras",
+      "caratula": "https://www.libreriaserendipia.com/imagenes/9788466/978846665891.GIF",
+      "sinopsis": "El Héroe de las Eras es el tercer volumen de la saga «Nacidos de la Bruma [Mistborn]». Una obra iniciada con El imperio final y parte imprescindible del Cosmere, el universo destinado a dar forma a la serie más extensa y fascinante jamás escrita en el ámbito de la fantasía épica.",
+      "precio": "60,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El nombre del viento",
+      "caratula": "https://www.libreriaserendipia.com/imagenes/9788401/978840102252.GIF",
+      "sinopsis": "Una maravillosa edición ilustrada y actualizada, para conmemorar el 10º aniversario de la publicación en español de la aclamadísima novela que ha consagrado a Patrick Rothfuss como fenómeno editorial.",
+      "precio": "55,000",
+      "recomendado": "TRUE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "La comunidad del anillo",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/51UdKQyH6jL._SX327_BO1,204,203,200_.jpg",
+      "sinopsis": "En la adormecida e idílica Comarca, un joven hobbit recibe un encargo: custodiar el Anillo Único y emprender el viaje para su destrucción en la Grieta del Destino. Acompañado por magos, hombres, elfos y enanos, atravesará la Tierra Media y se internará en las sombras de Mordor, perseguido siempre por las huestes de Sauron, el Señor Oscuro, dispuesto a recuperar su creación para establecer el dominio definitivo del Mal.",
+      "precio": "45,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "Las dos torres",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/51jH0VB5f9L._SX327_BO1,204,203,200_.jpg",
+      "sinopsis": "La Compañía se ha disuelto y sus integrantes emprenden caminos separados. Frodo y Sam continúan solos su viaje a lo largo del río Anduin, perseguidos por la sombra misteriosa de un ser extraño que también ambiciona la posesión del Anillo. Mientras, hombres, elfos y enanos se preparan para la batalla final contra las fuerzas del Señor del Mal.",
+      "precio": "45,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El retorno del rey",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/51jEgUL27CL._SX327_BO1,204,203,200_.jpg",
+      "sinopsis": "Los ejércitos del Señor Oscuro van extendiendo cada vez más su maléfica sombra por la Tierra Media. Hombres, elfos y enanos unen sus fuerzas para presentar batalla a Sauron y sus huestes. Ajenos a estos preparativos, Frodo y Sam siguen adentrándose en el país de Mordor en su heroico viaje para destruir el Anillo de Poder en las Grietas del Destino.",
+      "precio": "45,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "El ultimo deseo",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/41KoWl0zR0L._SX317_BO1,204,203,200_.jpg",
+      "sinopsis": "Decir que la conocí sería una exageración. Pienso que, excepto el brujo y la hechicera, nadie la conoció de verdad jamás. Cuando la vi por vez primera no me causó especial impresión, incluso pese a las extraordinarias circunstancias que lo acompañaron",
+      "precio": "50,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "La espada del destino",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/51UKFP3ZA4L._SX317_BO1,204,203,200_.jpg",
+      "sinopsis": "La vida de un brujo cazador de monstruos no es fácil. Tan pronto puede uno tener que meterse hasta el cuello en un estercolero para eliminar a la bestia carroñera que amenaza la ciudad, intentado no atrapar una infección incurable, como se puede encontrar unido a la cacería de uno de los últimos dragones, en la que la cuestión no es si los cazadores conseguirán matar a la pobre bestia.",
+      "precio": "50,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "libro",
+      "Genero": "Fantasía",
+      "Titulo": "La primera ley (colección)",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/51uQgIFTDcL._SX330_BO1,204,203,200_.jpg ",
+      "sinopsis": "La edición revisada definitiva de la Trilogía de la Primera Ley Grimdark en estado puro La voz de las espadas - Antes de que los cuelguen - El último argumento de los reyes",
+      "precio": "120,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Novela negra",
+      "Titulo": "El poder del perro",
+      "caratula": "https://ohlibrocom.cdnstatics.com/images/books/portadas/9788439723523.jpg",
+      "sinopsis": "Narcovaqueros, campesinos, mafia al puro estilo italoamericano, una jauría de irlandeses armados, policías corruptos, un soplón con el sugerente sobrenombre de Mamada y un santo milagrero conforman el universo de este thriller épico, coral y sangriento sobre la búsqueda de la redención escrito con el inconfundible talento de Don Winslow.",
+      "precio": "30,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Novela negra",
+      "Titulo": "El cartel",
+      "caratula": "https://ohlibrocom.cdnstatics.com/images/books/portadas/9788490566367.jpg",
+      "sinopsis": "“El cártel” es una impresionante novela cuyos acontecimientos tienen lugar entre el desértico paisaje mexicano y las oficinas de los poderosos en Washington, y su trama se desplaza hasta ciudades de Europa como Berlín y Barcelona.",
+      "precio": "45,000",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "Libro",
+      "Genero": "Novela negra",
+      "Titulo": "Los hombres que no amaban a las mujeres",
+      "caratula": "https://ohlibrocom.cdnstatics.com/images/books/portadas/9788423345410.jpg",
+      "sinopsis": "es la crónica de los conflictos de una familia, un alucinante relato de crimen y castigo, de perversiones sexuales y corrupción financiera; una trama violenta y peligrosa en la que, sin embargo, surgirá una tierna y frágil historia de amor entre dos personajes inolvidables",
+      "precio": "45,000",
+      "recomendado": "TRUE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "The brave and the bold",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/61SC3M18SYL._SX308_BO1,204,203,200_.jpg",
+      "sinopsis": "Co increíbles imágenes de acción, heroicos rescates y otros dibujos impactantes. ¡Pinta a los mejores superhéroes de DC para que cobren vida!",
+      "precio": "$10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "Whiz comics",
+      "caratula": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiJ9tmRmK_iAhXPwVkKHZOzCt4QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGolden_Age_of_Comic_Books&psig=AOvVaw23Gqe-Vh1ygIMfeDN5UZcY&ust=1558616079052919",
+      "sinopsis": "Los inicios de Arthur como nuevo monarca atlante no iban a ser fáciles, sin duda, pero ni él habría esperado un enfrentamiento con una colosal criatura legendaria, el Karaqan, del que apenas lograría salir con vida.",
+      "precio": "125,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "Action Comics",
+      "caratula": "https://www.google.com/search?biw=1273&bih=692&ei=plzlXOSTCsvr5gKc-53AAw&q=action+comics&oq=action+comics&gs_l=psy-ab.3..0i67l3j0l7.1546.1546..2349...0.0..0.588.588.5-1......0....2j1..gws-wiz.......0i71.UjzhrTVfOBE",
+      "sinopsis": "Is an American comic book/magazine series that introduced Superman, one of the first major superhero characters.",
+      "precio": "45,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "Flying kites",
+      "caratula": "https://cdn-images-1.medium.com/max/1600/1*9YTq_VN47jk_xkkpO5wqeg.jpeg",
+      "sinopsis": "Cover image of “Flying Kites: A Story of the 2013 California Prison Hunger Strike,” a book by the students and teachers of the Stanford Graphic Novel",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "The loud house",
+      "caratula": "https://s3.amazonaws.com/netgalley-covers/cover161652-medium.png",
+      "sinopsis": "Una casa de locos en España es una serie de televisión de animación y comedia que se estrenó el 2 de mayo de 2016 por la cadena de televisión infantil Nickelodeon.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "Secrets of Singapore",
+      "caratula": "https://cdn.shopify.com/s/files/1/0550/0041/products/DDan-Secrets-NMS-300_1024x1024.jpg?v=1494844282",
+      "sinopsis": "Most think of the glossy facade of Marina Bay Sands and the sheer ingenuity of Gardens by the Bay as Singapore’s star attractions.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "terror",
+      "Titulo": "The comic book history of comics",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/481771/481771._SX1280_QL80_TTD_.jpg",
+      "sinopsis": "Un comic book (traducido en ocasiones al español como cuaderno)1​ es un formato de publicación de historietas, el más utilizado para los cómics estadounidenses y sus versiones en otros países.",
+      "precio": "45,000.00",
+      "recomendado": "TRUE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Los Cuatro Fantásticos",
+      "caratula": "https://media.wired.com/photos/5bea0bf36b9c82549ab0b0cc/master/w_1134,c_limit/Lee_FantasticFour.jpg",
+      "sinopsis": " (estilizado muchas veces como 4 Fantásticos) es un equipo ficticio de superhéroes que aparece en cómics estadounidenses publicados por Marvel. ... Desde su introducción original en 1961, los 4 Fantásticos han sido retratados como una familia algo disfuncional, pero amorosa",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Frankenstein",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/61-R1jYTuUL._SX374_BO1,204,203,200_.jpg",
+      "sinopsis": "La novela narra la historia de Víctor Frankenstein, un estudiante de medicina en Ingolstadt, obsesionado por conocer \"los secretos del cielo y la tierra\". En su afán por desentrañar \"la misteriosa alma del hombre\", Víctor crea un cuerpo a partir de la unión de distintas partes de cadáveres diseccionados.",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Dragon Ball",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/81WSvvxHaPL.jpg",
+      "sinopsis": "Dragon Ball creado por Akira Toriyama. Kakarotto abandona su planeta porque es atacado por un enemigo. Lo adoptan y lo nombran como Goku. Goku empezará a luchar en artes marciales y a hacer amigos y enemigos para intentar conseguir las 7 bolas de dragón que le permiten dominar el mundo y que se le concedan uno o varios deseos.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Vintage Romance",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9QwmyQLV6gy7203XMX9x2Qo7ysFQMMQPhI-coZ7jz3xasKOs",
+      "sinopsis": "Las Primeras 100 Historietas fue una publicación en formato de libros de tapa blanda con periodicidad semanal editada en Argentina por el Grupo Clarín para distribuir exclusivamente en quioscos de periódicos en Argentina.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Wimmen’s commix",
+      "caratula": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2Fr_525txARhDI5OezALZ4dg%252F1-Wimmen-FC.jpg&width=1200&quality=80",
+      "sinopsis": "Con increíbles imágenes de acción, heroicos rescates y otros dibujos impactantes. ¡Pinta a los mejores superhéroes de DC para que cobren vida!",
+      "precio": "25,000.00",
+      "recomendado": "TRUE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Wimmen’s commix",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/61bXq786wHL._SX344_BO1,204,203,200_.jpg",
+      "sinopsis": "Aline Kominsky-Crumb nació en agosto de 1948 como Aline Goldsmith, en Long Beach, Nueva York, en el seno de una familia judía de clase media. En 1968 se fue a vivir a Arizona con su primer marido, donde se graduó en BFA en la Universidad de Arizona. Más tarde, se trasladó a San Francisco,",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "The legion of the regrettable supervillains",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/61-A0HnA8PL._SX258_BO1,204,203,200_.jpg",
+      "sinopsis": "Los inicios de Arthur como nuevo monarca atlante no iban a ser fáciles, sin duda, pero ni él habría esperado un enfrentamiento con una colosal criatura legendaria, el Karaqan, del que apenas lograría salir con vida.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "It aint me baby (woman liberation)",
+      "caratula": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FQjVFLedrYPI0m4hMFvHwcQ%252FIt%2BAin%2527t%2BMe%2BBabe-FC.jpg&width=1200&quality=80",
+      "sinopsis": "Jorge Martínez, el alopécico y peligroso líder de Ilegales cantaba hace años aquello de “Odio los pasodobles” y yo tengo una confesión parecida que hacer: soy redactor de CIBASS y sin embargo tengo que decir que hay algo dentro del campo de la cultura pop con lo que no consigo conectar.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "the uncanny x-men",
+      "caratula": "https://i0.wp.com/bestlifeonline.com/content/uploads/2018/05/x-men-comic-book-cover.jpg?resize=1024%2C1572&ssl=1",
+      "sinopsis": "La novela narra la historia de Víctor Frankenstein, un estudiante de medicina en Ingolstadt, obsesionado por conocer \"los secretos del cielo y la tierra\". En su afán por desentrañar \"la misteriosa alma del hombre\", Víctor crea un cuerpo a partir de la unión de distintas partes de cadáveres diseccionados.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "ficcion",
+      "Titulo": "Wolverine",
+      "caratula": "https://cdn11.bigcommerce.com/s-0kvv9/images/stencil/1280x1280/products/278981/391115/marvelpresentscomic4__58019.1543104719.jpg?c=2&imbypass=on",
+      "sinopsis": "Con increíbles imágenes de acción, heroicos rescates y otros dibujos impactantes. ¡Pinta a los mejores superhéroes de DC para que cobren vida!",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Power ranger",
+      "caratula": "https://www.freecomicbookday.com/news_images/204065_1168423_2.jpg",
+      "sinopsis": "La historia personal jamás contada de lo que les sucedió a Jason, Kim, Trini, Zack y Billy los días después de que se convirtieron en Rangers por primera vez. Luchar contra el mal es difícil, pero sobrevivir a la secundaria puede que sea más difícil.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Wonder man",
+      "caratula": "https://universaldork.files.wordpress.com/2017/08/wonder_man_1_marvel_comic_book.jpg?w=830&h=1280",
+      "sinopsis": "El Hombre Maravilla (en inglés Wonder Man), llamado Simon Williams, es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. Creado por el escritor Stan Lee y los artistas Don Heck y Jack Kirby, apareció por primera vez en The Avengers # 9 (octubre de 1964)",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Hicksville",
+      "caratula": "https://www.creativeboom.com/uploads/articles/61/61f6a4e9495df2f3022f49e5d9baa748efcea153_1100.jpg",
+      "sinopsis": "Oculto en el punto más bajo del mundo, existe un tranquilo pueblo costero donde la playa es soleada, el té caliente, los lugareños afables, y a todo el mundo le gustan los tebeos.",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Moon knight",
+      "caratula": "http://cdn.pastemagazine.com/www/articles/2016/12/04/MoonKnight1.jpg",
+      "sinopsis": "El Caballero Luna (Moon Knight en el original de inglés) es un personaje ficticio, un superhéroe que aparece en los comic books publicados por Marvel Comics. El personaje existe en el Universo Marvel y fue creado por Doug Moench y Don Perlin. Su primera aparición fue en Werewolf by Night# 32 (Agosto de 1975).",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "The flintstones",
+      "caratula": "https://cdn.pastemagazine.com/www/articles/assets_c/2017/12/STL046276-thumb-500x768-691769.jpeg",
+      "sinopsis": "Dragon Ball creado por Akira Toriyama. Kakarotto abandona su planeta porque es atacado por un enemigo. Lo adoptan y lo nombran como Goku. Goku empezará a luchar en artes marciales y a hacer amigos y enemigos para intentar conseguir las 7 bolas de dragón que le permiten dominar el mundo y que se le concedan uno o varios deseos.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Tarzan",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9sGB6G3XLWjU_zEvXWKcUXBodqaGmMKG2Oq_CwSkaJQix-p-e7Q",
+      "sinopsis": "The history of American comics began in the 19th century in mass print media, in the era of yellow journalism, where newspaper comics served as a boon to mass readership.[1] In the 20th century, comics became an autonomous art medium[1] and an integral part of American culture",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Tales from the crypt",
+      "caratula": "https://m.media-amazon.com/images/M/MV5BNTk4NjY2NWQtNzVlNy00N2IyLWI1NzgtMzU5NmIxMTBmYTkxXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "sinopsis": "Los inicios de Arthur como nuevo monarca atlante no iban a ser fáciles, sin duda, pero ni él habría esperado un enfrentamiento con una colosal criatura legendaria, el Karaqan, del que apenas lograría salir con vida.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Star wars",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_v2Rq6rvNKf97yPIpD51p6mU8L-usZ5W9ud2oC-wT3905dDam",
+      "sinopsis": "Uno de los mas vendidas ediciones en el mundo, la serie de 9 peliculas y otras producciones paralelas hacen que los comics sean muy apreciados por los seguidores y fanaticos de esta facinante serie.",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "The punisher",
+      "caratula": "https://99designs-blog.imgix.net/wp-content/uploads/2016/11/Punisher-e1478188102527.png?auto=format&q=60&fit=max&w=930",
+      "sinopsis": "Punisher (el Castigador en Hispanoamérica y España) es un justiciero y un antihéroe ficticio del universo de Marvel Comics. Creado en 1974 por el guionista Gerry Conway y los dibujantes John Romita Sr. y Ross Andru, su primera aparición fue en The Amazing Spider-Man n.º 129 (febrero de 1974) como antagonista y rival de Spider-Man.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Hungry ghosts",
+      "caratula": "https://fsmedia.imgix.net/2a/cb/3d/d6/a115/4058/88e8/8c770b6a8576/cover-of-hungry-ghosts-2-written-by-anthony-bourdain-and-joel-rose.jpeg?auto=format%2Ccompress&dpr=2&w=650",
+      "sinopsis": "Co increíbles imágenes de acción, heroicos rescates y otros dibujos impactantes. ¡Pinta a los mejores superhéroes de DC para que cobren vida!",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "drama",
+      "Titulo": "Get Jiro",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/513vVnO8UdL._SX323_BO1,204,203,200_.jpg",
+      "sinopsis": "La siguiente reseña se termino de escribir hace unas doce horas, por ese momento no conocía el giro del destino y ese final tan rocker cómo su vida. Ahora más que ayer les recomiendo que lo lean porque reúne muchos de los pensamientos sobre la gastronomía de ese alma punk…",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "adult",
+      "Titulo": "Rat man",
+      "caratula": "https://cdn.shopify.com/s/files/1/1556/9595/products/tradedress_UCB_BWL4_480x480.jpg?v=1553348146",
+      "sinopsis": "La novela narra la historia de Víctor Frankenstein, un estudiante de medicina en Ingolstadt, obsesionado por conocer \"los secretos del cielo y la tierra\". En su afán por desentrañar \"la misteriosa alma del hombre\", Víctor crea un cuerpo a partir de la unión de distintas partes de cadáveres diseccionados.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "adult",
+      "Titulo": "The bronze age",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uwflx5Q0WWB9lW5Nf6OSsFKuksNlZB_awtvdjhkvi0cb-XT1",
+      "sinopsis": "For sale flashback 1 dynapubs november 1973 daredevil battles hitler 1 july 1941 lev gleason funnies inc alan light lance hale silver streak claw dickie dean cloud curtis pirate prince rare out of print comic book magazines emorys memories.",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "adult",
+      "Titulo": "Batgirl",
+      "caratula": "https://www.dccomics.com/sites/default/files/styles/comics320x485/public/comic-covers/2019/05/BG_35_300-001_HD_5cd21e57e2f809.08951964.jpg?itok=cCcbBlvA",
+      "sinopsis": "Uno de los mas vendidas ediciones en el mundo, la serie de 9 peliculas y otras producciones paralelas hacen que los comics sean muy apreciados por los seguidores y fanaticos de esta facinante serie.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "The amazing spiderman",
+      "caratula": "https://screenrant.com/wp-content/uploads/2016/11/spiderman96.jpg",
+      "sinopsis": "Cover image of “Flying Kites: A Story of the 2013 California Prison Hunger Strike,” a book by the students and teachers of the Stanford Graphic Novel",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Spiderman",
+      "caratula": "https://imgix.ranker.com/user_node_img/104/2075534/original/spider-man-photo-u76?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+      "sinopsis": "(llamado Hombre Araña en muchas de las traducciones al español) es un superhéroe ficticio creado por los escritores y editores Stan Lee y Steve Ditko. Apareció por primera vez en el cómic de antología Amazing Fantasy # 15 (agosto de 1962) en la Edad de Plata de los cómics. Aparece en los cómics estadounidenses publicados por Marvel Comics,",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Rise of the superheroes",
+      "caratula": "https://images-na.ssl-images-amazon.com/images/I/91WJQeRImJL.jpg",
+      "sinopsis": "The history of American comics began in the 19th century in mass print media, in the era of yellow journalism, where newspaper comics served as a boon to mass readership.[1] In the 20th century, comics became an autonomous art medium[1] and an integral part of American culture",
+      "precio": "25,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Wonder woman",
+      "caratula": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiN9uvFna_iAhVnrlkKHcXsB3YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.comixology.co.uk%2FWonder-Woman-FCBD-2017-Special-Edition-2017-1%2Fdigital-comic%2F525593&psig=AOvVaw23Gqe-Vh1ygIMfeDN5UZcY&ust=1558616079052919",
+      "sinopsis": "Dragon Ball creado por Akira Toriyama. Kakarotto abandona su planeta porque es atacado por un enemigo. Lo adoptan y lo nombran como Goku. Goku empezará a luchar en artes marciales y a hacer amigos y enemigos para intentar conseguir las 7 bolas de dragón que le permiten dominar el mundo y que se le concedan uno o varios deseos.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Black panter",
+      "caratula": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjLzcv4oa_iAhXOjVkKHVJdCOUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.icanvas.com%2Fcanvas-art-prints%2Fsubject%2Fblack-panther&psig=AOvVaw23Gqe-Vh1ygIMfeDN5UZcY&ust=1558616079052919",
+      "sinopsis": "Pantera Negra, ha conseguido despertar el interés por parte de todos los aficionados, pero ¿Qué etapas son las mejores para leer al personaje?",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Superman",
+      "caratula": "https://www.covernk.com/Covers/S/S/Superman%202016%20series/superman2016series10.jpg",
+      "sinopsis": "Action Comics v1 #957Path of Doom Part OneFecha: 2016.08| Créditos: Dan Jurgens (Guiones), Patrick Zircher (Dibujos)| Edición española: Superman: Action Comics núm. 01 . [Sendero de muerte. Parte 1.] Luthor comienza a actuar como el nuevo Superman tras la muerte del Hombre de Acero.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Batman (the war years 1939 – 1945)",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwvDaTjMu4H7t8PXyKJNg9ZNwaeQqpXHpOcxl-YNLAVT1gtxja",
+      "sinopsis": "Co increíbles imágenes de acción, heroicos rescates y otros dibujos impactantes. ¡Pinta a los mejores superhéroes de DC para que cobren vida!",
+      "precio": "675,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Capitán America",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq4ATq_XlrxvqqTb3JX32kB03NetOhbTad70fjZGE290ZuKjI",
+      "sinopsis": "Uno de los mas vendidas ediciones en el mundo, la serie de 9 peliculas y otras producciones paralelas hacen que los comics sean muy apreciados por los seguidores y fanaticos de esta fascinante serie.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "Thor",
+      "caratula": "https://upload.wikimedia.org/wikipedia/en/4/41/Thor-272.jpg",
+      "sinopsis": "Thor, cuyo nombre completo es Thor Odinson, conocido como Donald Blake en la tierra como su identidad secreta, es un superhéroe y príncipe-guerrero asgardiano, el dios del Trueno, y un protector auto-proclamado de la Tierra. Thor, posteriormente, se volvió muy conocido por sus acciones en la Tierra.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    },
+    {
+      "Tipo": "comic",
+      "Genero": "fantasia",
+      "Titulo": "The avengers",
+      "caratula": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjV3egCclPBfOQwrNZmjJWkbBt9n587YUeacIgvs8KwnlHOHDq",
+      "sinopsis": "The Avengers is the name of several comic book titles featuring the team the Avengers and published by Marvel Comics, beginning with the original The Avengers comic book series which debuted in 1963.",
+      "precio": "10,000.00",
+      "recomendado": "FALSE"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <title>libreria thor</title>
+    <style>
+        /*---------Otro codigo importante-----------*/
+
+        /*
+        *  Reset Styles
+        */
+
+        /*@import 'normalize.css';
+        /* Change all elements to use border-box */
+
+        html {
+            box-sizing: border-box;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        .logo {
+            width: 60px;
+            height: 60px;
+            position: relative;
+            top: 12px;
+        }
+
+        .imagenDeTexto {
+            width: 220px;
+            height: 120px;
+            margin-right: 10%;
+        }
+
+        .contenedorIndex {
+            width: 85%;
+            height: 500px;
+            top: 18%;
+            background-color: #5A7684;
+            font-family: myFirstFont;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            background-image: url(https://raw.githubusercontent.com/LuzAFA/libreriaThor/master/Imagenes/fondo3.png);
+            background-size: cover;
+            overflow: hidden;
+        }
+
+        @font-face {
+            font-family: myFirstFont;
+            src: url(../css/sf_comic_script/SF\ Comic\ Script.ttf);
+        }
+
+        /*---------Otro codigo importante -----------*/
+
+        /*---------Codigo Dilan Bocanegra -----------*/
+
+        /*----------Estilo NAV Dilan Bocanegra-------*/
+
+        nav {
+
+            background: #5A7684;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            display: flex;
+            justify-content: space-around;
+            padding-inline-start: 0;
+            height: 70px;
+
+        }
+
+        nav ul li {
+            float: left;
+            font-size: 16pt;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        nav ul li a {
+            padding: 1.6rem;
+            color: white;
+            display: block;
+            text-decoration: none;
+            /*Transiciones*/
+            -webkit-transition: 0.4s linear all;
+            -moz-transition: 0.4s linear all;
+            -o-transition: 0.4s linear all;
+            transition: 0.4s linear all;
+
+        }
+
+        nav ul li a:hover {
+            background: #4e5c63;
+        }
+
+        nav ul li img {
+            width: 100px;
+            height: 100px;
+            margin-top: -14px;
+
+        }
+
+        nav ul li input {
+            margin-top: 1.6rem;
+            font-size: 15px;
+            border-radius: 8px;
+            border: none;
+            text-align: center;
+        }
+
+        /*----------Estilo NAV Dilan Bocanegra-------*/
+
+        /*---------Estilo SCROLL_DIV ----------------*/
+        .div_scroll {
+            height: 500px;
+            overflow-y: scroll;
+            background: #5A7684;
+        }
+
+        /*---------Estilo SCROLL_DIV ----------------*/
+        /*---------Codigo Dilan Bocanegra -----------*/
+
+
+        /* ESTILOS ESPECIFICOS*/
+
+        {{estilosEspesificos}}
+
+    </style>
+
+</head>
+
+<body>
+
+<img class=" imagenDeTexto" src="https://raw.githubusercontent.com/LuzAFA/libreriaThor/master/Imagenes/path842-20-2.png"
+     alt="">
+<div class="contenedorIndex">
+
+    <div class="navegador">
+        <nav>
+
+            <ul>
+
+                <li><a href="consulta">Consulta</a></li>
+
+                <li><a href="eventos">Eventos</a></li>
+
+                <li><img src="https://raw.githubusercontent.com/LuzAFA/libreriaThor/master/Imagenes/logo.png" alt="">
+                </li>
+
+                <li><a href="recomendados">Recomendados</a></li>
+
+                <li><a href="busqueda">¿ Que Buscas ?</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="div_scroll">
+
+        <div class="slider">
+
+        </div>
+
+        <div class="contendorDinamico" id="contendorDinamico">
+            {{contenidoPagina}}
+        </div>
+    </div>
+    <footer class="footerIndex"></footer>
+</div>
+</body>
+
+</html>
