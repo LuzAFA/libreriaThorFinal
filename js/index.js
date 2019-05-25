@@ -8,7 +8,6 @@ contenido = require('./content.js').data;
 eventos = new events();
 
 http.createServer((request, response) => {
-
     let htmlContent = "";
 
     let urlPath = path.basename(url.parse(request.url).pathname);
@@ -22,10 +21,10 @@ http.createServer((request, response) => {
                 response.end();
             });
             break;
-        case "consulta":
+        case "contenido":
             fs.readFile('../plantilla.html', (error, dato) => {
                 htmlContent += dato.toString();
-                htmlContent = remplaceContent(htmlContent, contenido.busqueda);
+                htmlContent = remplaceContent(htmlContent, contenido.contenido);
                 response.write(htmlContent);
                 response.end();
             });
@@ -43,6 +42,14 @@ http.createServer((request, response) => {
             fs.readFile('../plantilla.html', (error, dato) => {
                 htmlContent += dato.toString();
                 htmlContent = remplaceContent(htmlContent, contenido.recomendados);
+                response.write(htmlContent);
+                response.end();
+            });
+            break;
+        case "busqueda":
+            fs.readFile('../plantilla.html', (error, dato) => {
+                htmlContent += dato.toString();
+                htmlContent = remplaceContent(htmlContent, contenido.busqueda);
                 response.write(htmlContent);
                 response.end();
             });
