@@ -5,16 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <script  type="text/javascript">
  
  $(document).ready(function(){
         $.ajaxSetup({ cache: false });//cache= no guarda cache en el navegador
-        $('#search').keyup(function(){//keyup reconoce al oprimir una tecla
+        $('#cajaBusqueda').keyup(function(){//keyup reconoce al oprimir una tecla
         $('#result').html('');//imprime en html
         $('#state').val('');//atrapa el valor
-            var campoBusqueda = $('#search').val();
+            var campoBusqueda = $('#cajaBusqueda').val();
             var expression = new RegExp(campoBusqueda, "i");//"i" busqueda no sensitiva
-            $.getJSON('../data/libros.json', function(data) {//cambiar users.json por el archivo json deseado
+            $.getJSON('libros.json', function(data) {//cambiar users.json por el archivo json deseado
+                console.log("hola"+data)
                 $.each(data.comics, function(key, value){
                     if (value.Titulo.search(expression) != -1 || value.precio.search(expression) != -1)//cambiar value.nombre por value.autor, cambiar value.libro por la variable del json
                     {/*la linea inferior muestra los resultados en orden*/
@@ -39,7 +41,7 @@
 
         $('#result').on('click', 'li', function() {//organiza el resultado
             var click_text = $(this).text().split('|');
-            $('#search').val($.trim(click_text[0]));
+            $('#cajaBusqueda').val($.trim(click_text[0]));
             $("#result").html('');
         });
     });
@@ -51,7 +53,7 @@
             <h1>Busqueda</h1>
         </div>
         <div id="divBuscador">
-            <input type="text" name="search" id="search" placeholder="Ingrese la busqueda" class="form-control" /><!--Clase boostrap-->
+            <input type="text" id="cajaBusqueda" class="cajaBusqueda" placeholder="Busca tu libro o comic...">
         </div>
         <ul class="list-group" id="result"></ul><!--Clase boostrap-->
         <br />
