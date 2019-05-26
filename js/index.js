@@ -54,6 +54,11 @@ http.createServer((request, response) => {
                 response.end();
             });
             break;
+        case 'libros.json':
+            const jsonContenido = contenido.jsonLibros.contenidoPagina();
+            response.write(jsonContenido);
+            response.end();
+        break;
 
     }
 

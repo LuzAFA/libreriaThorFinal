@@ -170,6 +170,11 @@ let data = {
             });
             return doc;
         },
+    },
+    "jsonLibros": {
+        "contenidoPagina": function () {
+            return fs.readFileSync('../data/libros.json');
+        }
     }
 }
 
