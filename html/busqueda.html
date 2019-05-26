@@ -1,16 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script  type="text/javascript">
+ 
+   $(document).ready(function(){
+    $.ajaxSetup({ cache: false });//cache= no guarda cache en el navegador
+    $('#search').keyup(function(){//keyup reconoce al oprimir una tecla
+     
+    $('#result').html('');//imprime en html
+    $('#state').val('');//atrapa el valor
+        var campoBusqueda = $('#search').val();
+        var expression = new RegExp(campoBusqueda, "i");//"i" busqueda no sensitiva
+        $.getJSON('../data/libros.json', function(data) {//cambiar users.json por el archivo json deseado
+            console.log("json"+data)
+            $.each(data.comics, function(key, value){
+            console.log("json"+value)
 
+                if (value.Titulo.search(expression) != -1 || value.precio.search(expression) != -1)//cambiar value.nombre por value.autor, cambiar value.libro por la variable del json
+                {/*la linea inferior muestra los resultados en orden*/
+                    var tagLi = document.getElementsByTagName("li")
+                    console.log(value.Titulo)
+                    console.log("Se encontraron " + (tagLi.length + 1) + " resultados")
+                    var tag = document.getElementById("result")
+                    var li = document.createElement("li");
+                    li.setAttribute("id", key)
+                    li.setAttribute("onclick", "tomarDato(this.id)")
+                    li.setAttribute("class", "list-group-item link-class")
+                    var contenidoDiv = document.createTextNode(value.Titulo+ ' || ' + ' $' +value.precio );
+                    li.appendChild(contenidoDiv);
+                    tag.appendChild(li);
 
-<section id="contenedorBusqueda" class="contenedorContainer">
-    <div class="tituloBusqueda">
-        <h1>Busqueda</h1>
+                    // $('#result').append('<li id=key onclick="tomarDato(this.id)" class="list-group-item link-class">' +
+                    //     '<img src="'+ value.link +'" height="40" width="40" class="img-thumbnail" /> '+ value.caratula +' | <span class="text-muted">'+value.precio+'</span></li>');
+                }
+            });
+        });
+    });
+});
+    </script>
+</head>
+<body>
+    <section id="contenedorBusqueda" class="contenedorContainer">
+        <div class="tituloBusqueda">
+            <h1>Busqueda</h1>
+        </div>
+        <div id="divBuscador">
+            <input type="text" name="search" id="search" placeholder="Ingrese la busqueda" class="form-control" /><!--Clase boostrap-->
+        </div>
+        <ul class="list-group" id="result"></ul><!--Clase boostrap-->
+        <br />
+    </section>
+    
+    <h1 class="tituloRecomendados">{{titulo}}</h1>
+    <div class="filadeTarjetas">
+        {{tarjetas}}
     </div>
-    <form class="formularioBusqueda" action="#busqueda"></form>
-    <input type="text" name="search" id="search" class="cajaBusqueda" placeholder="Busca tu libro o comic...">
-    <ul class="list-group" id="result"></ul>
-    </form>
-</section>
+    
+</body>
+</html>
 
-<h1 class="tituloRecomendados">{{titulo}}</h1>
-<div class="filadeTarjetas">
-    {{tarjetas}}
-</div>
+
