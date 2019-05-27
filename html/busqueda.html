@@ -32,6 +32,8 @@
                         li.appendChild(contenidoDiv);
                         tag.appendChild(li);
 
+                        
+
                         // $('#result').append('<li id=key onclick="tomarDato(this.id)" class="list-group-item link-class">' +
                         //     '<img src="'+ value.link +'" height="40" width="40" class="img-thumbnail" /> '+ value.caratula +' | <span class="text-muted">'+value.precio+'</span></li>');
                     }
@@ -45,6 +47,27 @@
             $("#result").html('');
         });
     });
+    function tomarDato(valor) {
+        var libros = document.getElementById("libros")
+        var contenido=document.getElementById("contenido")
+        contenido.classList.remove("filadeTarjetas")
+        contenido.classList.add("hidden")
+        libros.classList.remove("hidden");
+
+        $.getJSON('libros.json', function (data) {//cambiar users.json por el archivo json deseado
+
+            $.each(data.comics, function (key, value) {
+                if (key == valor) {//cambiar value.nombre por value.autor, cambiar value.libro por la variable del json
+                    console.log(value.Titulo)
+                    var imagen = document.getElementById("imagen")
+
+                    imagen.innerHTML=("<img   height=300 width=250 src="+value.caratula+">")
+                    var info=document.getElementById("inf")
+                    info.innerHTML=("<h1>" + value.Titulo + "</h1>"+"<p class=cardProfesion>"+value.Genero+"</p>"+ "<p>"+value.sinopsis+"</p>")
+                }
+            });
+        });
+    };
     </script>
 </head>
 <body>
@@ -60,10 +83,25 @@
     </section>
     
     <h1 class="tituloRecomendados">{{titulo}}</h1>
-    <div class="filadeTarjetas">
+    <div class="filadeTarjetas" id="contenido">
         {{tarjetas}}
     </div>
+    <div id="libros" class="filadeTarjetas hidden" width="80%">
+              <div class=flip_card_container>
+                    <div class=flip_card_sub_container>
     
+                       <div class=flip_card_front id="imagen">
+                           
+                                
+                        </div>
+                      <div class="flip_card_back" id="inf">
+                            
+                           
+                            <br><br><br>                   
+                        </div>
+                    </div>
+                </div>
+    </div>
 </body>
 </html>
 
